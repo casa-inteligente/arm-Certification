@@ -6,7 +6,7 @@
 2. GNU Make
 3. Command Line
 4. Version Controle (GitHUb)
-5. IDE
+5. IDE (CCS Code COmposer Studio)
 
 ---
 
